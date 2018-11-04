@@ -1,0 +1,5 @@
+name: FairFight
+author: joeleoli
+version: 1.0
+main: me.joeleoli.fairfight.FairFight
+depend: [Nucleus]
